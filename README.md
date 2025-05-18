@@ -65,4 +65,4 @@ Conclusão:
 Todos os arquivos foram desenvolvidos com clareza e foco no aprendizado.  
 Este material pode ser utilizado como base de estudo, prática pessoal ou complementação de conteúdo.
 
-Autor: mgbmoura
+# De: Marcelo-Giulian
