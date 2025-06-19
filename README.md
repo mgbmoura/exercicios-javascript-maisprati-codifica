@@ -1,4 +1,4 @@
-# exercicios-javascript-maisprati-codifica
+# Lista01-de-exercicios-javascript-maisprati-codifica
 
 Lista de Tarefas 1 – Lógica de Programação com JavaScript
 
