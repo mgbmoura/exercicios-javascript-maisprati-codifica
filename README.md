@@ -1,4 +1,4 @@
-# Lista01-de-exercicios-javascript-maisprati-codifica**(29/04/2025)**
+# Lista01-de-exercicios-javascript-maisprati-codifica(29/04/2025)
 
 Lista de Tarefas 1 – Lógica de Programação com JavaScript
 
